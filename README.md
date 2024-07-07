@@ -33,3 +33,6 @@ Translation Portal for Frappe Apps
 
     bench download-translations
 
+
+
+TEST
